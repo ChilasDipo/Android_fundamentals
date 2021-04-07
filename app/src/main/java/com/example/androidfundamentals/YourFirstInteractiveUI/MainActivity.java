@@ -1,4 +1,4 @@
-package com.example.androidfundamentals;
+package com.example.androidfundamentals.YourFirstInteractiveUI;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Color;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.androidfundamentals.R;
 
 public class MainActivity extends AppCompatActivity {
     Button toastbutton,count;
